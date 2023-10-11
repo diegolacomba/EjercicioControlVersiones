@@ -1,3 +1,3 @@
 # Declaro variables
-x<-555
+x<-600
 y<-33
